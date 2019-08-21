@@ -1,0 +1,2 @@
+network_microphone_sdl_dummy.o network_microphone_sdl_dummy.o:  \
+ network_microphone_sdl_dummy.cpp

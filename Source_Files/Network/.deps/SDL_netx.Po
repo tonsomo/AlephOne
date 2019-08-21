@@ -1,0 +1,269 @@
+SDL_netx.o SDL_netx.o: SDL_netx.cpp \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/features.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/unistd.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix_opt.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/environments.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/confname.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/getopt.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/socket.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/uio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/uio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/socket.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/limits.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/syslimits.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/limits.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix1_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/local_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/limits.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix2_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/xopen_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sockaddr.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/socket.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/sockios.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/netinet/in.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdint.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/wchar.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/in.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/byteswap.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/net/if.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/ioctl.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctls.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctls.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctl.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctl-types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/ttydefaults.h SDL_netx.h \
+  C:/devkitGP2X/include/SDL/SDL_net.h C:/devkitGP2X/include/SDL/SDL.h \
+  C:/devkitGP2X/include/SDL/SDL_main.h \
+  C:/devkitGP2X/include/SDL/SDL_types.h \
+  C:/devkitGP2X/include/SDL/SDL_getenv.h \
+  C:/devkitGP2X/include/SDL/SDL_error.h \
+  C:/devkitGP2X/include/SDL/begin_code.h \
+  C:/devkitGP2X/include/SDL/close_code.h \
+  C:/devkitGP2X/include/SDL/SDL_rwops.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/libio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/_G_config.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/wchar.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/gconv.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stdarg.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sys_errlist.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio.h \
+  C:/devkitGP2X/include/SDL/SDL_timer.h \
+  C:/devkitGP2X/include/SDL/SDL_audio.h \
+  C:/devkitGP2X/include/SDL/SDL_byteorder.h \
+  C:/devkitGP2X/include/SDL/SDL_cdrom.h \
+  C:/devkitGP2X/include/SDL/SDL_joystick.h \
+  C:/devkitGP2X/include/SDL/SDL_events.h \
+  C:/devkitGP2X/include/SDL/SDL_active.h \
+  C:/devkitGP2X/include/SDL/SDL_keyboard.h \
+  C:/devkitGP2X/include/SDL/SDL_keysym.h \
+  C:/devkitGP2X/include/SDL/SDL_mouse.h \
+  C:/devkitGP2X/include/SDL/SDL_video.h \
+  C:/devkitGP2X/include/SDL/SDL_mutex.h \
+  C:/devkitGP2X/include/SDL/SDL_quit.h \
+  C:/devkitGP2X/include/SDL/SDL_version.h \
+  C:/devkitGP2X/include/SDL/SDL_endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/byteorder.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/byteorder/little_endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/byteorder/swab.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/byteswap.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/byteorder/generic.h
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/features.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/unistd.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix_opt.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/environments.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/confname.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/getopt.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/socket.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/uio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/uio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/socket.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/limits.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/syslimits.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/limits.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix1_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/local_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/limits.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix2_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/xopen_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sockaddr.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/socket.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/sockios.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/netinet/in.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdint.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/wchar.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/in.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/byteswap.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/net/if.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/ioctl.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctls.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctls.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctl.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctl-types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/ttydefaults.h:
+
+SDL_netx.h:
+
+C:/devkitGP2X/include/SDL/SDL_net.h:
+
+C:/devkitGP2X/include/SDL/SDL.h:
+
+C:/devkitGP2X/include/SDL/SDL_main.h:
+
+C:/devkitGP2X/include/SDL/SDL_types.h:
+
+C:/devkitGP2X/include/SDL/SDL_getenv.h:
+
+C:/devkitGP2X/include/SDL/SDL_error.h:
+
+C:/devkitGP2X/include/SDL/begin_code.h:
+
+C:/devkitGP2X/include/SDL/close_code.h:
+
+C:/devkitGP2X/include/SDL/SDL_rwops.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/libio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/_G_config.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/wchar.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/gconv.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stdarg.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sys_errlist.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio.h:
+
+C:/devkitGP2X/include/SDL/SDL_timer.h:
+
+C:/devkitGP2X/include/SDL/SDL_audio.h:
+
+C:/devkitGP2X/include/SDL/SDL_byteorder.h:
+
+C:/devkitGP2X/include/SDL/SDL_cdrom.h:
+
+C:/devkitGP2X/include/SDL/SDL_joystick.h:
+
+C:/devkitGP2X/include/SDL/SDL_events.h:
+
+C:/devkitGP2X/include/SDL/SDL_active.h:
+
+C:/devkitGP2X/include/SDL/SDL_keyboard.h:
+
+C:/devkitGP2X/include/SDL/SDL_keysym.h:
+
+C:/devkitGP2X/include/SDL/SDL_mouse.h:
+
+C:/devkitGP2X/include/SDL/SDL_video.h:
+
+C:/devkitGP2X/include/SDL/SDL_mutex.h:
+
+C:/devkitGP2X/include/SDL/SDL_quit.h:
+
+C:/devkitGP2X/include/SDL/SDL_version.h:
+
+C:/devkitGP2X/include/SDL/SDL_endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/byteorder.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/byteorder/little_endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/byteorder/swab.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/byteswap.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/byteorder/generic.h:

@@ -1,0 +1,79 @@
+xmlrole.o xmlrole.o: xmlrole.c xmldef.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/string.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/features.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/string.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/string2.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdlib.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/alloca.h ../../config.h \
+  xmlrole.h xmltok.h
+
+xmldef.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/string.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/features.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/string.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/string2.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdlib.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/alloca.h:
+
+../../config.h:
+
+xmlrole.h:
+
+xmltok.h:
